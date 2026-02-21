@@ -188,7 +188,7 @@ The higher recall for the rage class (0.90) indicates the model is particularly 
 
 ## Experiments
 
-Six hyperparameter experiments were conducted to analyze model behavior:
+Six hyperparameter experiments were conducted to analyze model behavior :
 
 | Experiment | Variants Tested | Best Config |
 |---|---|---|
