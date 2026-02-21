@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML artifacts
+*.pth
+*.pt
+*.onnx
+checkpoints/
+outputs/
+logs/
+wandb/
+
+# Data
+dataset/
+data/raw/
+*.csv
+*.h5
+
+# Environment
+.env
